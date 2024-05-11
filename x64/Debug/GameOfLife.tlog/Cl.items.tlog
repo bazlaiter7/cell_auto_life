@@ -1,0 +1,13 @@
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_demo.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_demo.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_draw.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_draw.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_impl_glfw.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_impl_glfw.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_impl_opengl2.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_impl_opengl2.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_tables.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_tables.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Imgui\imgui_widgets.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\imgui_widgets.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\Controll\Controll.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\Controll.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\Data\Data.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\Data.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\GameBoard.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\GameBoard.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\Main.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\Main.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\UI\UI.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\UI.obj
+C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\Source\Window\Window.cpp;C:\Users\java2\Desktop\CPP_proj\GameOfLife-master\GameOfLife_CodeBase\GameOfLife\x64\Debug\Window.obj
